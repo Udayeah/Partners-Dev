@@ -73,4 +73,7 @@
     <Build Include="dbo\Functions\fnLetterCount.sql" />
     <Build Include="dbo\Functions\Winners.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="SQL-DB.refactorlog" />
+  </ItemGroup>
 </Project>
